@@ -195,7 +195,7 @@ h2{
     align-items: auto;
 }
 
-.cards cardSecond .alinear{
+.cards .cardSecond .alinear{
     text-align: center;
     justify-items:auto;
     align-items: auto;
